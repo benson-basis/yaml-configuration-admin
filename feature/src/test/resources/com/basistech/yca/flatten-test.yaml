@@ -1,0 +1,13 @@
+color: blue
+limbs: [ arms, legs ]
+ingredients:
+  stuffing:
+    thickness: 1.0
+    count: 3
+    fool: false
+  topping:
+  - 'a'
+  - 12
+  - dog: cat
+    cat: dog
+
